@@ -1,12 +1,43 @@
-# React + Vite
+# Ochi.design clone using react.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Original website: https://ochi.design/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🖥️ Demo
+[<video controls autoplay width="1000"/> <source src="public/Ochi.mp4" type="video/mp4">]()
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+- **React** - Frontend framework
+- **Tailwind CSS** - Styling
+- **JavaScript** - Type Checking
+- **Framer Motion** - For animation
+
+
+## 📦 Installation
+
+
+## Install Using NPM
+
+### Clone the Repository
+```sh
+git clone https://github.com/SoumyadipDutta1004/Ochi-clone.git
+cd Ochi-clone
+```
+
+### Install Dependencies
+```sh
+npm install
+```
+
+### Run the Application
+```sh
+npm run dev
+```
+
+Now, open your browser and navigate to `http://localhost:5173` to use the todo list.
+
+---
+Made with ❤️ by **Soumyadip Dutta**
+
