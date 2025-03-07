@@ -5,7 +5,7 @@ Original website: https://ochi.design/
 
 
 ## 🖥️ Demo
-[<video controls autoplay width="1000"/> <source src="public/Ochi.mp4" type="video/mp4"> </video>]()
+[Watch the video](https://github.com/your-repo/raw/main/public/Ochi.mp4)
 
 
 ## 🛠️ Tech Stack
