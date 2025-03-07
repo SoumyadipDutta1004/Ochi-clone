@@ -5,7 +5,7 @@ Original website: https://ochi.design/
 
 
 ## 🖥️ Demo
-[<video controls autoplay width="1000"/> <source src="public/Ochi.mp4" type="video/mp4"> </video>]()
+[<img src="public/image.png" alt="ToDo list" width="700"/>]()
 
 
 ## 🛠️ Tech Stack
@@ -23,7 +23,7 @@ Original website: https://ochi.design/
 ### Clone the Repository
 ```sh
 git clone https://github.com/SoumyadipDutta1004/Ochi-clone.git
-cd Ochi-clone
+cd todo-list-react-ts
 ```
 
 ### Install Dependencies
