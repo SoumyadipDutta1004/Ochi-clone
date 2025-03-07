@@ -5,7 +5,7 @@ Original website: https://ochi.design/
 
 
 ## 🖥️ Demo
-[](/public/Ochi.mp4)
+[watch video](/public/Ochi.mp4)
 
 
 ## 🛠️ Tech Stack
