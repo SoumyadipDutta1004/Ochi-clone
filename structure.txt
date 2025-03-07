@@ -1,0 +1,10 @@
+Navbar
+Landing page/ Hero
+Marquee
+About
+Play Area
+Projects
+  -cards
+Awards
+Ready to start
+Footer
