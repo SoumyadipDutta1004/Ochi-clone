@@ -5,13 +5,13 @@ Original website: https://ochi.design/
 
 
 ## 🖥️ Demo
-[<img src="public/image.png" alt="ToDo list" width="700"/>]()
+[<img src="public/image.png" alt="Demo" width="1000"/>]()
 
 
 ## 🛠️ Tech Stack
 - **React** - Frontend framework
 - **Tailwind CSS** - Styling
-- **JavaScript** - Type Checking
+- **JavaScript** - 
 - **Framer Motion** - For animation
 
 
@@ -23,7 +23,7 @@ Original website: https://ochi.design/
 ### Clone the Repository
 ```sh
 git clone https://github.com/SoumyadipDutta1004/Ochi-clone.git
-cd todo-list-react-ts
+cd Ochi-clone
 ```
 
 ### Install Dependencies
